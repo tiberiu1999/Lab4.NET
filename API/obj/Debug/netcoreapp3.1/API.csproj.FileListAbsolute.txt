@@ -1,0 +1,179 @@
+C:\Users\folariu\Desktop\Facultate\Introducere in .NET 2020 2021\Curs 3\StudentApp\API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\folariu\Desktop\Facultate\Introducere in .NET 2020 2021\Curs 3\StudentApp\API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\folariu\Desktop\Facultate\Introducere in .NET 2020 2021\Curs 3\StudentApp\API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\folariu\Desktop\Facultate\Introducere in .NET 2020 2021\Curs 3\StudentApp\API\bin\Debug\netcoreapp3.1\API.exe
+C:\Users\folariu\Desktop\Facultate\Introducere in .NET 2020 2021\Curs 3\StudentApp\API\bin\Debug\netcoreapp3.1\API.deps.json
+C:\Users\folariu\Desktop\Facultate\Introducere in .NET 2020 2021\Curs 3\StudentApp\API\bin\Debug\netcoreapp3.1\API.runtimeconfig.json
+C:\Users\folariu\Desktop\Facultate\Introducere in .NET 2020 2021\Curs 3\StudentApp\API\bin\Debug\netcoreapp3.1\API.runtimeconfig.dev.json
+C:\Users\folariu\Desktop\Facultate\Introducere in .NET 2020 2021\Curs 3\StudentApp\API\bin\Debug\netcoreapp3.1\API.dll
+C:\Users\folariu\Desktop\Facultate\Introducere in .NET 2020 2021\Curs 3\StudentApp\API\bin\Debug\netcoreapp3.1\API.pdb
+C:\Users\folariu\Desktop\Facultate\Introducere in .NET 2020 2021\Curs 3\StudentApp\API\obj\Debug\netcoreapp3.1\API.csprojAssemblyReference.cache
+C:\Users\folariu\Desktop\Facultate\Introducere in .NET 2020 2021\Curs 3\StudentApp\API\obj\Debug\netcoreapp3.1\staticwebassets\API.StaticWebAssets.Manifest.cache
+C:\Users\folariu\Desktop\Facultate\Introducere in .NET 2020 2021\Curs 3\StudentApp\API\obj\Debug\netcoreapp3.1\staticwebassets\API.StaticWebAssets.xml
+C:\Users\folariu\Desktop\Facultate\Introducere in .NET 2020 2021\Curs 3\StudentApp\API\obj\Debug\netcoreapp3.1\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\folariu\Desktop\Facultate\Introducere in .NET 2020 2021\Curs 3\StudentApp\API\obj\Debug\netcoreapp3.1\API.AssemblyInfoInputs.cache
+C:\Users\folariu\Desktop\Facultate\Introducere in .NET 2020 2021\Curs 3\StudentApp\API\obj\Debug\netcoreapp3.1\API.AssemblyInfo.cs
+C:\Users\folariu\Desktop\Facultate\Introducere in .NET 2020 2021\Curs 3\StudentApp\API\obj\Debug\netcoreapp3.1\API.RazorTargetAssemblyInfo.cache
+C:\Users\folariu\Desktop\Facultate\Introducere in .NET 2020 2021\Curs 3\StudentApp\API\obj\Debug\netcoreapp3.1\API.dll
+C:\Users\folariu\Desktop\Facultate\Introducere in .NET 2020 2021\Curs 3\StudentApp\API\obj\Debug\netcoreapp3.1\API.pdb
+C:\Users\folariu\Desktop\Facultate\Introducere in .NET 2020 2021\Curs 3\StudentApp\API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\folariu\Desktop\Facultate\Introducere in .NET 2020 2021\Curs 3\StudentApp\API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\folariu\Desktop\Facultate\Introducere in .NET 2020 2021\Curs 3\StudentApp\API\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\folariu\Desktop\Facultate\Introducere in .NET 2020 2021\Curs 3\StudentApp\API\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\folariu\Desktop\Facultate\Introducere in .NET 2020 2021\Curs 3\StudentApp\API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\folariu\Desktop\Facultate\Introducere in .NET 2020 2021\Curs 3\StudentApp\API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\folariu\Desktop\Facultate\Introducere in .NET 2020 2021\Curs 3\StudentApp\API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\folariu\Desktop\Facultate\Introducere in .NET 2020 2021\Curs 3\StudentApp\API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\folariu\Desktop\Facultate\Introducere in .NET 2020 2021\Curs 3\StudentApp\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\folariu\Desktop\Facultate\Introducere in .NET 2020 2021\Curs 3\StudentApp\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\folariu\Desktop\Facultate\Introducere in .NET 2020 2021\Curs 3\StudentApp\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\folariu\Desktop\Facultate\Introducere in .NET 2020 2021\Curs 3\StudentApp\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\folariu\Desktop\Facultate\Introducere in .NET 2020 2021\Curs 3\StudentApp\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\folariu\Desktop\Facultate\Introducere in .NET 2020 2021\Curs 3\StudentApp\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\folariu\Desktop\Facultate\Introducere in .NET 2020 2021\Curs 3\StudentApp\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\folariu\Desktop\Facultate\Introducere in .NET 2020 2021\Curs 3\StudentApp\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\folariu\Desktop\Facultate\Introducere in .NET 2020 2021\Curs 3\StudentApp\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\folariu\Desktop\Facultate\Introducere in .NET 2020 2021\Curs 3\StudentApp\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\folariu\Desktop\Facultate\Introducere in .NET 2020 2021\Curs 3\StudentApp\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\folariu\Desktop\Facultate\Introducere in .NET 2020 2021\Curs 3\StudentApp\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\folariu\Desktop\Facultate\Introducere in .NET 2020 2021\Curs 3\StudentApp\API\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\folariu\Desktop\Facultate\Introducere in .NET 2020 2021\Curs 3\StudentApp\API\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\folariu\Desktop\Facultate\Introducere in .NET 2020 2021\Curs 3\StudentApp\API\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\folariu\Desktop\Facultate\Introducere in .NET 2020 2021\Curs 3\StudentApp\API\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\folariu\Desktop\Facultate\Introducere in .NET 2020 2021\Curs 3\StudentApp\API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\folariu\Desktop\Facultate\Introducere in .NET 2020 2021\Curs 3\StudentApp\API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\folariu\Desktop\Facultate\Introducere in .NET 2020 2021\Curs 3\StudentApp\API\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\folariu\Desktop\Facultate\Introducere in .NET 2020 2021\Curs 3\StudentApp\API\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\folariu\Desktop\Facultate\Introducere in .NET 2020 2021\Curs 3\StudentApp\API\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\folariu\Desktop\Facultate\Introducere in .NET 2020 2021\Curs 3\StudentApp\API\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\folariu\Desktop\Facultate\Introducere in .NET 2020 2021\Curs 3\StudentApp\API\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\folariu\Desktop\Facultate\Introducere in .NET 2020 2021\Curs 3\StudentApp\API\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\folariu\Desktop\Facultate\Introducere in .NET 2020 2021\Curs 3\StudentApp\API\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\folariu\Desktop\Facultate\Introducere in .NET 2020 2021\Curs 3\StudentApp\API\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\folariu\Desktop\Facultate\Introducere in .NET 2020 2021\Curs 3\StudentApp\API\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\folariu\Desktop\Facultate\Introducere in .NET 2020 2021\Curs 3\StudentApp\API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\folariu\Desktop\Facultate\Introducere in .NET 2020 2021\Curs 3\StudentApp\API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\folariu\Desktop\Facultate\Introducere in .NET 2020 2021\Curs 3\StudentApp\API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\folariu\Desktop\Facultate\Introducere in .NET 2020 2021\Curs 3\StudentApp\API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\folariu\Desktop\Facultate\Introducere in .NET 2020 2021\Curs 3\StudentApp\API\obj\Debug\netcoreapp3.1\API.csproj.CopyComplete
+C:\Users\folariu\Desktop\Facultate\Introducere in .NET 2020 2021\Curs 3\StudentApp\API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\folariu\Desktop\Facultate\Introducere in .NET 2020 2021\Curs 4\Demo 1\StudentApp\API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\folariu\Desktop\Facultate\Introducere in .NET 2020 2021\Curs 4\Demo 1\StudentApp\API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\folariu\Desktop\Facultate\Introducere in .NET 2020 2021\Curs 4\Demo 1\StudentApp\API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\folariu\Desktop\Facultate\Introducere in .NET 2020 2021\Curs 4\Demo 1\StudentApp\API\bin\Debug\netcoreapp3.1\API.exe
+C:\Users\folariu\Desktop\Facultate\Introducere in .NET 2020 2021\Curs 4\Demo 1\StudentApp\API\bin\Debug\netcoreapp3.1\API.deps.json
+C:\Users\folariu\Desktop\Facultate\Introducere in .NET 2020 2021\Curs 4\Demo 1\StudentApp\API\bin\Debug\netcoreapp3.1\API.runtimeconfig.json
+C:\Users\folariu\Desktop\Facultate\Introducere in .NET 2020 2021\Curs 4\Demo 1\StudentApp\API\bin\Debug\netcoreapp3.1\API.runtimeconfig.dev.json
+C:\Users\folariu\Desktop\Facultate\Introducere in .NET 2020 2021\Curs 4\Demo 1\StudentApp\API\bin\Debug\netcoreapp3.1\API.dll
+C:\Users\folariu\Desktop\Facultate\Introducere in .NET 2020 2021\Curs 4\Demo 1\StudentApp\API\bin\Debug\netcoreapp3.1\API.pdb
+C:\Users\folariu\Desktop\Facultate\Introducere in .NET 2020 2021\Curs 4\Demo 1\StudentApp\API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\folariu\Desktop\Facultate\Introducere in .NET 2020 2021\Curs 4\Demo 1\StudentApp\API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\folariu\Desktop\Facultate\Introducere in .NET 2020 2021\Curs 4\Demo 1\StudentApp\API\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\folariu\Desktop\Facultate\Introducere in .NET 2020 2021\Curs 4\Demo 1\StudentApp\API\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\folariu\Desktop\Facultate\Introducere in .NET 2020 2021\Curs 4\Demo 1\StudentApp\API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\folariu\Desktop\Facultate\Introducere in .NET 2020 2021\Curs 4\Demo 1\StudentApp\API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\folariu\Desktop\Facultate\Introducere in .NET 2020 2021\Curs 4\Demo 1\StudentApp\API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\folariu\Desktop\Facultate\Introducere in .NET 2020 2021\Curs 4\Demo 1\StudentApp\API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\folariu\Desktop\Facultate\Introducere in .NET 2020 2021\Curs 4\Demo 1\StudentApp\API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\folariu\Desktop\Facultate\Introducere in .NET 2020 2021\Curs 4\Demo 1\StudentApp\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\folariu\Desktop\Facultate\Introducere in .NET 2020 2021\Curs 4\Demo 1\StudentApp\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\folariu\Desktop\Facultate\Introducere in .NET 2020 2021\Curs 4\Demo 1\StudentApp\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\folariu\Desktop\Facultate\Introducere in .NET 2020 2021\Curs 4\Demo 1\StudentApp\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\folariu\Desktop\Facultate\Introducere in .NET 2020 2021\Curs 4\Demo 1\StudentApp\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\folariu\Desktop\Facultate\Introducere in .NET 2020 2021\Curs 4\Demo 1\StudentApp\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\folariu\Desktop\Facultate\Introducere in .NET 2020 2021\Curs 4\Demo 1\StudentApp\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\folariu\Desktop\Facultate\Introducere in .NET 2020 2021\Curs 4\Demo 1\StudentApp\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\folariu\Desktop\Facultate\Introducere in .NET 2020 2021\Curs 4\Demo 1\StudentApp\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\folariu\Desktop\Facultate\Introducere in .NET 2020 2021\Curs 4\Demo 1\StudentApp\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\folariu\Desktop\Facultate\Introducere in .NET 2020 2021\Curs 4\Demo 1\StudentApp\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\folariu\Desktop\Facultate\Introducere in .NET 2020 2021\Curs 4\Demo 1\StudentApp\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\folariu\Desktop\Facultate\Introducere in .NET 2020 2021\Curs 4\Demo 1\StudentApp\API\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\folariu\Desktop\Facultate\Introducere in .NET 2020 2021\Curs 4\Demo 1\StudentApp\API\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\folariu\Desktop\Facultate\Introducere in .NET 2020 2021\Curs 4\Demo 1\StudentApp\API\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\folariu\Desktop\Facultate\Introducere in .NET 2020 2021\Curs 4\Demo 1\StudentApp\API\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\folariu\Desktop\Facultate\Introducere in .NET 2020 2021\Curs 4\Demo 1\StudentApp\API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\folariu\Desktop\Facultate\Introducere in .NET 2020 2021\Curs 4\Demo 1\StudentApp\API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\folariu\Desktop\Facultate\Introducere in .NET 2020 2021\Curs 4\Demo 1\StudentApp\API\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\folariu\Desktop\Facultate\Introducere in .NET 2020 2021\Curs 4\Demo 1\StudentApp\API\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\folariu\Desktop\Facultate\Introducere in .NET 2020 2021\Curs 4\Demo 1\StudentApp\API\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\folariu\Desktop\Facultate\Introducere in .NET 2020 2021\Curs 4\Demo 1\StudentApp\API\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\folariu\Desktop\Facultate\Introducere in .NET 2020 2021\Curs 4\Demo 1\StudentApp\API\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\folariu\Desktop\Facultate\Introducere in .NET 2020 2021\Curs 4\Demo 1\StudentApp\API\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\folariu\Desktop\Facultate\Introducere in .NET 2020 2021\Curs 4\Demo 1\StudentApp\API\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\folariu\Desktop\Facultate\Introducere in .NET 2020 2021\Curs 4\Demo 1\StudentApp\API\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\folariu\Desktop\Facultate\Introducere in .NET 2020 2021\Curs 4\Demo 1\StudentApp\API\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\folariu\Desktop\Facultate\Introducere in .NET 2020 2021\Curs 4\Demo 1\StudentApp\API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\folariu\Desktop\Facultate\Introducere in .NET 2020 2021\Curs 4\Demo 1\StudentApp\API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\folariu\Desktop\Facultate\Introducere in .NET 2020 2021\Curs 4\Demo 1\StudentApp\API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\folariu\Desktop\Facultate\Introducere in .NET 2020 2021\Curs 4\Demo 1\StudentApp\API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\folariu\Desktop\Facultate\Introducere in .NET 2020 2021\Curs 4\Demo 1\StudentApp\API\obj\Debug\netcoreapp3.1\API.csprojAssemblyReference.cache
+C:\Users\folariu\Desktop\Facultate\Introducere in .NET 2020 2021\Curs 4\Demo 1\StudentApp\API\obj\Debug\netcoreapp3.1\staticwebassets\API.StaticWebAssets.Manifest.cache
+C:\Users\folariu\Desktop\Facultate\Introducere in .NET 2020 2021\Curs 4\Demo 1\StudentApp\API\obj\Debug\netcoreapp3.1\staticwebassets\API.StaticWebAssets.xml
+C:\Users\folariu\Desktop\Facultate\Introducere in .NET 2020 2021\Curs 4\Demo 1\StudentApp\API\obj\Debug\netcoreapp3.1\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\folariu\Desktop\Facultate\Introducere in .NET 2020 2021\Curs 4\Demo 1\StudentApp\API\obj\Debug\netcoreapp3.1\API.AssemblyInfoInputs.cache
+C:\Users\folariu\Desktop\Facultate\Introducere in .NET 2020 2021\Curs 4\Demo 1\StudentApp\API\obj\Debug\netcoreapp3.1\API.AssemblyInfo.cs
+C:\Users\folariu\Desktop\Facultate\Introducere in .NET 2020 2021\Curs 4\Demo 1\StudentApp\API\obj\Debug\netcoreapp3.1\API.RazorTargetAssemblyInfo.cache
+C:\Users\folariu\Desktop\Facultate\Introducere in .NET 2020 2021\Curs 4\Demo 1\StudentApp\API\obj\Debug\netcoreapp3.1\API.csproj.CopyComplete
+C:\Users\folariu\Desktop\Facultate\Introducere in .NET 2020 2021\Curs 4\Demo 1\StudentApp\API\obj\Debug\netcoreapp3.1\API.dll
+C:\Users\folariu\Desktop\Facultate\Introducere in .NET 2020 2021\Curs 4\Demo 1\StudentApp\API\obj\Debug\netcoreapp3.1\API.pdb
+C:\Folder D\.net\Curs4 Lab\StudentApp\API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Folder D\.net\Curs4 Lab\StudentApp\API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Folder D\.net\Curs4 Lab\StudentApp\API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Folder D\.net\Curs4 Lab\StudentApp\API\bin\Debug\netcoreapp3.1\API.exe
+C:\Folder D\.net\Curs4 Lab\StudentApp\API\bin\Debug\netcoreapp3.1\API.deps.json
+C:\Folder D\.net\Curs4 Lab\StudentApp\API\bin\Debug\netcoreapp3.1\API.runtimeconfig.json
+C:\Folder D\.net\Curs4 Lab\StudentApp\API\bin\Debug\netcoreapp3.1\API.runtimeconfig.dev.json
+C:\Folder D\.net\Curs4 Lab\StudentApp\API\bin\Debug\netcoreapp3.1\API.dll
+C:\Folder D\.net\Curs4 Lab\StudentApp\API\bin\Debug\netcoreapp3.1\API.pdb
+C:\Folder D\.net\Curs4 Lab\StudentApp\API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Folder D\.net\Curs4 Lab\StudentApp\API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Folder D\.net\Curs4 Lab\StudentApp\API\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Folder D\.net\Curs4 Lab\StudentApp\API\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Folder D\.net\Curs4 Lab\StudentApp\API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Folder D\.net\Curs4 Lab\StudentApp\API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Folder D\.net\Curs4 Lab\StudentApp\API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Folder D\.net\Curs4 Lab\StudentApp\API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Folder D\.net\Curs4 Lab\StudentApp\API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Folder D\.net\Curs4 Lab\StudentApp\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Folder D\.net\Curs4 Lab\StudentApp\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Folder D\.net\Curs4 Lab\StudentApp\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Folder D\.net\Curs4 Lab\StudentApp\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Folder D\.net\Curs4 Lab\StudentApp\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Folder D\.net\Curs4 Lab\StudentApp\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Folder D\.net\Curs4 Lab\StudentApp\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Folder D\.net\Curs4 Lab\StudentApp\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Folder D\.net\Curs4 Lab\StudentApp\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Folder D\.net\Curs4 Lab\StudentApp\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Folder D\.net\Curs4 Lab\StudentApp\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Folder D\.net\Curs4 Lab\StudentApp\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Folder D\.net\Curs4 Lab\StudentApp\API\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Folder D\.net\Curs4 Lab\StudentApp\API\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Folder D\.net\Curs4 Lab\StudentApp\API\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Folder D\.net\Curs4 Lab\StudentApp\API\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Folder D\.net\Curs4 Lab\StudentApp\API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Folder D\.net\Curs4 Lab\StudentApp\API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Folder D\.net\Curs4 Lab\StudentApp\API\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Folder D\.net\Curs4 Lab\StudentApp\API\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Folder D\.net\Curs4 Lab\StudentApp\API\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Folder D\.net\Curs4 Lab\StudentApp\API\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Folder D\.net\Curs4 Lab\StudentApp\API\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Folder D\.net\Curs4 Lab\StudentApp\API\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Folder D\.net\Curs4 Lab\StudentApp\API\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Folder D\.net\Curs4 Lab\StudentApp\API\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Folder D\.net\Curs4 Lab\StudentApp\API\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Folder D\.net\Curs4 Lab\StudentApp\API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Folder D\.net\Curs4 Lab\StudentApp\API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Folder D\.net\Curs4 Lab\StudentApp\API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Folder D\.net\Curs4 Lab\StudentApp\API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Folder D\.net\Curs4 Lab\StudentApp\API\obj\Debug\netcoreapp3.1\API.csprojAssemblyReference.cache
+C:\Folder D\.net\Curs4 Lab\StudentApp\API\obj\Debug\netcoreapp3.1\API.AssemblyInfoInputs.cache
+C:\Folder D\.net\Curs4 Lab\StudentApp\API\obj\Debug\netcoreapp3.1\API.AssemblyInfo.cs
+C:\Folder D\.net\Curs4 Lab\StudentApp\API\obj\Debug\netcoreapp3.1\API.csproj.CoreCompileInputs.cache
+C:\Folder D\.net\Curs4 Lab\StudentApp\API\obj\Debug\netcoreapp3.1\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Folder D\.net\Curs4 Lab\StudentApp\API\obj\Debug\netcoreapp3.1\API.RazorTargetAssemblyInfo.cache
+C:\Folder D\.net\Curs4 Lab\StudentApp\API\obj\Debug\netcoreapp3.1\API.csproj.CopyComplete
+C:\Folder D\.net\Curs4 Lab\StudentApp\API\obj\Debug\netcoreapp3.1\staticwebassets\API.StaticWebAssets.Manifest.cache
+C:\Folder D\.net\Curs4 Lab\StudentApp\API\obj\Debug\netcoreapp3.1\staticwebassets\API.StaticWebAssets.xml
+C:\Folder D\.net\Curs4 Lab\StudentApp\API\obj\Debug\netcoreapp3.1\API.dll
+C:\Folder D\.net\Curs4 Lab\StudentApp\API\obj\Debug\netcoreapp3.1\API.pdb
+C:\Folder D\.net\Curs4 Lab\StudentApp\API\obj\Debug\netcoreapp3.1\API.genruntimeconfig.cache
