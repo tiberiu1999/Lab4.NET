@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Lj1BQHD9ZFEwP9deYbrZ2WCFTN5FeivPCFUCf54kzXPpu6paTP17X88KZeGsgbA8UV/BlQT7a49nu1qD1clsFQ==",
+  "dgSpecHash": "Yj9x4CEP4shoXwhY25/VmnFVk+NlKvWOOmxIveVBJ20XcL1Y6cnf7av7Jndj6V2NezfEoqp/V/YJgrncIwpgDg==",
   "success": true,
-  "projectFilePath": "C:\\Folder D\\.net\\Curs4 Lab\\StudentApp\\API\\API.csproj",
+  "projectFilePath": "c:\\Folder D\\.net\\Curs4 Lab\\StudentApp\\Lab4.NET\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tiber\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\tiber\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

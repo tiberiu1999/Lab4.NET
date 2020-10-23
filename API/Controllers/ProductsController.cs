@@ -53,5 +53,21 @@ namespace API.Controllers
       }
       return sum;
     }
+
+    public ActionResult<List<Product>> ValidSum()
+    {
+          double sum=0;
+          List<Product> validProductsSum = new List<Product>();
+          foreach (var Product in _context.Products)
+          {
+            
+            if(DateTime.Compare(DateTime.Now, Product.ValidTo) <0)
+            {
+              validProductsSum.Add(Product);
+              sum += Product.Price;
+            }
+          }
+          return validProductsSum;
+    }
   }
 }

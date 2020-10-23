@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Folder D\\.net\\Curs4 Lab\\StudentApp\\API\\API.csproj": {}
+    "c:\\Folder D\\.net\\Curs4 Lab\\StudentApp\\Lab4.NET\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Folder D\\.net\\Curs4 Lab\\StudentApp\\API\\API.csproj": {
+    "c:\\Folder D\\.net\\Curs4 Lab\\StudentApp\\Lab4.NET\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Folder D\\.net\\Curs4 Lab\\StudentApp\\API\\API.csproj",
+        "projectUniqueName": "c:\\Folder D\\.net\\Curs4 Lab\\StudentApp\\Lab4.NET\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Folder D\\.net\\Curs4 Lab\\StudentApp\\API\\API.csproj",
+        "projectPath": "c:\\Folder D\\.net\\Curs4 Lab\\StudentApp\\Lab4.NET\\API\\API.csproj",
         "packagesPath": "C:\\Users\\tiber\\.nuget\\packages\\",
-        "outputPath": "C:\\Folder D\\.net\\Curs4 Lab\\StudentApp\\API\\obj\\",
+        "outputPath": "c:\\Folder D\\.net\\Curs4 Lab\\StudentApp\\Lab4.NET\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tiber\\AppData\\Roaming\\NuGet\\NuGet.Config",
